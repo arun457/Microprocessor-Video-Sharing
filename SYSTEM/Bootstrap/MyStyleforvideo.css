@@ -66,8 +66,8 @@ a {
   word-spacing: 5px;
 }
 
-/* iframe {
-  height: 4128px;
-  width: 100%;
-  border-radius: 10px;
-} */
+iframe {
+  height: 4128px !important;
+  width: 100% !important;
+  border-radius: 10px !important;
+}
