@@ -1,0 +1,57 @@
+Introduction to Microprocessors
+Pipelining
+Memory Banking
+Memory Segmentation
+Architecture
+Flag Register
+Addressing Modes
+Instruction Set  PUSH and POP
+Instruction Set  XLAT
+Instruction Set  IN and OUT
+Instruction Set  Arithmetic Instructions
+Instruction Set  DAA and DAS
+Instruction Set  Logic Instructions
+Instruction Set  Rotate, Shift and Processor control Instructions
+Instruction Set  Branch Instructions
+Instruction Set  String Instructions
+Programming Part 1  Add 2 Numbers  Includes Assembler Directives
+Programming Part 2  Block Transfer using String Instructions
+Programming Part 3  Block Exchange  two programs
+Programming Part 4  Highest, Even odd, Positive Negative-Zeros
+Programming Part 5  Palindrome program
+Programming Part 6  Sort Ascending and Descending
+Programming Part 7  32 bit Multiplication program New
+Programming Part 8  BCD conversion - Packed and Unpacked
+Interrupt Structure and IVT
+INT 21H - DOS Interrupt
+Complete Minimum Mode Configuration with Timing Diagrams
+Complete Maximum Mode Configuration with Timing Diagrams
+8087 NDP Floating Point Numbers
+Interfacing with 8087 NDP in Co-procressor Configuration
+8259 PIC Architecture and Working in Single Mode
+8259 PIC Working in Cascaded Mode
+8259 PIC Operating Modes
+8259 PIC Commands - ICWs and OCWs
+8259 PIC Interfacing and Designing
+8255 PPI Architecture and Working
+8255 PPI Data Transfer Modes - Handshaking
+8255 PPI Interfacing and Designing
+8255 PPI Interfacing with 4 x 4 Matrix Keyboard
+8255 PPI Interfacing with ADC - Data Acquisition System
+82538254 PIT Architecture and Control Word
+82538254 PIT Timer Modes
+8237 DMAC  Concept of DMA and Transfer Techniques
+Memory Interfacing with RAM - ROM with Designing
+Memory Mapped IO vs IO Mapped IO
+Instruction Set  Arithmetic Instructions
+Bus Arbitration  Daisy Chaining, Polling, Independent Requests
+Importants  Viva Questions with Answers
+Importants  30 Most Likely Questions for Main Exam
+Simulator Prog  Part 1A 
+Simulator Prog  Part 1B 
+Simulator Programming  Part 2 
+Simulator Programming  Part 3 
+MCQ
+Floating Point  Extreme Cases  NaN, Infinity, Zero, Denormal 
+8086 8257 DMAC Architecture Block diagram and Pins
+Assembler Directives
