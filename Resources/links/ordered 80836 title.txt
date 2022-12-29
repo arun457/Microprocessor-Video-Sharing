@@ -1,8 +1,0 @@
-Introduction
-Flag Register EFLAGS
-Real Mode Protected mode Virtual 8086 Mode
-Control Registers
-address translation - segmentation
-segment descriptor format
-address translation - paging 
-protection mechanism
